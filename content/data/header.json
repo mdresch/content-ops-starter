@@ -62,7 +62,7 @@
                 },
                 {
                     "label": "Vision",
-                    "url": "/",
+                    "url": "/vision",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
