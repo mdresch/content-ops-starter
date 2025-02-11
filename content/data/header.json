@@ -72,7 +72,7 @@
                 {
                     "type": "Link",
                     "label": "Purpose",
-                    "altText": "",
+                    "altText": "Purpose",
                     "url": "/Purpose",
                     "showIcon": false,
                     "icon": "arrowRight",
