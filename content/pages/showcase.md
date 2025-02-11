@@ -230,7 +230,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: Showcase - Services
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: This is the showcase page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
