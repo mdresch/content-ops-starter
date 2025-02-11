@@ -104,7 +104,7 @@
                     "type": "Link",
                     "label": "General Terms and Conditions",
                     "altText": "General Terms and Conditions",
-                    "url": "/",
+                    "url": "/generalterms",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
