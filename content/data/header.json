@@ -103,7 +103,7 @@
                 {
                     "type": "Link",
                     "label": "General Terms and Condictions",
-                    "altText": "",
+                    "altText": "General Terms and Conditions",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
