@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /Showase
         icon: arrowRight
         iconPosition: right
         style: secondary
