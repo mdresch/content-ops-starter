@@ -3,7 +3,7 @@ title: Pricing
 slug: showcase
 sections:
   - title:
-      text: Flexible Pricing
+      text: Showcase
       color: text-dark
       styles:
         self:
