@@ -77,7 +77,7 @@ sections:
         type: PricingPlan
       - title: Consultancy
         price: Consultant
-        details: per month
+        details: your tag line here
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
