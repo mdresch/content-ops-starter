@@ -114,7 +114,7 @@
                 {
                     "type": "Link",
                     "label": "Privacy Statement",
-                    "altText": "",
+                    "altText": "Privacy Statement",
                     "url": "/privacy",
                     "showIcon": false,
                     "icon": "arrowRight",
