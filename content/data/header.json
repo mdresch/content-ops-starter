@@ -40,7 +40,7 @@
         },
         {
             "label": "Company",
-            "altText": "Dropdown",
+            "altText": "Company",
             "links": [
                 {
                     "label": "Dropdown item",
