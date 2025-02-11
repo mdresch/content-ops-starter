@@ -4,15 +4,17 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Showcase",
+            "url": "/showcase",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -37,36 +39,113 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Company",
+            "altText": "Company",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "About Us",
+                    "url": "/about",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "About Us"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Mission",
+                    "url": "/mission",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Mission"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Vision",
+                    "url": "/vision",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Vision"
+                },
+                {
+                    "type": "Link",
+                    "label": "Core Values",
+                    "altText": "Core Values",
+                    "url": "/corevalues",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Purpose",
+                    "altText": "Purpose",
+                    "url": "/Purpose",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "SubNav",
+            "label": "Legal",
+            "altText": "Legal",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Code of Conduct",
+                    "altText": "Code of Conduct",
+                    "url": "/code-of-conduct",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Ethics and Business",
+                    "altText": "Ethics and Business",
+                    "url": "/ethics",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "General Terms and Conditions",
+                    "altText": "General Terms and Conditions",
+                    "url": "/generalterms",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Privacy Statement",
+                    "altText": "Privacy Statement",
+                    "url": "/privacy",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
@@ -90,5 +169,6 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "SCEV"
 }

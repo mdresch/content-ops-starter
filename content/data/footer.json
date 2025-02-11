@@ -18,8 +18,8 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Showcase",
+                "url": "/showcase",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -62,7 +62,7 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/mdresch",
             "icon": "github",
             "type": "Social"
         },
@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "menno.drescher@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
