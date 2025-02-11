@@ -1,6 +1,6 @@
 ---
 title: Pricing
-slug: pricing
+slug: showcase
 sections:
   - title:
       text: Flexible Pricing
