@@ -19,7 +19,7 @@
             },
             {
                 "label": "Showcase",
-                "url": "/pricing",
+                "url": "/showcase",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
