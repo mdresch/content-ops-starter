@@ -82,7 +82,7 @@
                     "type": "Link",
                     "label": "Code of Conduct",
                     "altText": "Code of Conduct",
-                    "url": "/",
+                    "url": "/code-of-conduct",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
