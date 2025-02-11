@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: Professional Services
         price: Flex Employ
-        details: per month
+        details: Your Tag line here
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
