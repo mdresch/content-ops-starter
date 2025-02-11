@@ -83,7 +83,7 @@
                 {
                     "type": "Link",
                     "label": "Core Values",
-                    "altText": "",
+                    "altText": "Core Values",
                     "url": "/corevalues",
                     "showIcon": false,
                     "icon": "arrowRight",
