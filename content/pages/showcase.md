@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional Services
-        price: $99
+        price: Flex Employ
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
