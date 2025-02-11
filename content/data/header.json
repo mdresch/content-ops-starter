@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "Mission",
-                    "url": "/",
+                    "url": "/mission",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
