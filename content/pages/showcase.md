@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: This is the subtitle for the tag line for showcase section
     plans:
       - title: Services Extensive
         price: Recruitment
