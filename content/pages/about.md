@@ -31,7 +31,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: mission statement
+      label: about us
       color: text-primary
     colors: bg-light-fg-dark
     styles:
