@@ -76,7 +76,7 @@
         {
             "type": "SubNav",
             "label": "Legal",
-            "altText": "Dropdown",
+            "altText": "Legal",
             "links": [
                 {
                     "type": "Link",
