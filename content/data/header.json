@@ -43,7 +43,7 @@
             "altText": "Company",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "About Us",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
