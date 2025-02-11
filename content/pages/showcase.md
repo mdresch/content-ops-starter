@@ -118,7 +118,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Showcase Services
       color: text-dark
       styles:
         self:
