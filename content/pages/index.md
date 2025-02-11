@@ -18,6 +18,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Get Started
       - type: Link
         label: See Tutorials
         url: /
