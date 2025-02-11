@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Showcase
 slug: showcase
 sections:
   - title:
