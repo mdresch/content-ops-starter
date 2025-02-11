@@ -81,7 +81,7 @@
                 {
                     "type": "Link",
                     "label": "Code of Conduct",
-                    "altText": "",
+                    "altText": "Code of Conduct",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
